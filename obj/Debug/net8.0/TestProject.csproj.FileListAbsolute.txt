@@ -26,3 +26,4 @@ c:\Users\User\OneDrive\Documents\GitHub\HelloCSharp\obj\Debug\net8.0\refint\Test
 c:\Users\User\OneDrive\Documents\GitHub\HelloCSharp\obj\Debug\net8.0\TestProject.pdb
 c:\Users\User\OneDrive\Documents\GitHub\HelloCSharp\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 c:\Users\User\OneDrive\Documents\GitHub\HelloCSharp\obj\Debug\net8.0\ref\TestProject.dll
+c:\Users\User\OneDrive\Documents\GitHub\HelloCSharp\obj\Debug\net8.0\TestProject.sourcelink.json
